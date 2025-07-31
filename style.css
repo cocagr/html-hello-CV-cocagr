@@ -1,12 +1,9 @@
-
-a{
-    color: red;
+#header{
+    color: white;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#direccion{
-    font-weight: bold;
-}
-
-#tlf{
-    font-weight: bold;
+#header p{
+    font-size: larger;
 }
